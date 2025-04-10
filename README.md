@@ -1,12 +1,14 @@
 <h2 align="left">Hey there 👋 I'm Jhennyfer</h2>
 
 <p align="left">
-I'm a software developer specialized in Frontend, passionate about building clean, accessible and scalable digital experiences. With a strong background in modern JavaScript frameworks, I’ve worked on projects ranging from super apps and delivery platforms to internal systems and automations.
+I'm a Frontend-focused software developer passionate about crafting clean, accessible and scalable digital experiences. I have hands-on experience with modern frameworks like React, Next.js, Vue.js and React Native, and I’ve worked on projects ranging from super apps and delivery platforms to internal dashboards, design systems, and no-code/low-code automations. I'm constantly exploring ways to combine design, code, and performance to create interfaces that truly connect people to technology.
 </p>
 
 <p align="left">
-💻 Main stack: React, TypeScript, Next.js, Node.js, Vue.js  
+💻 Main stack: React, React Native, Next.js, Node.js, Vue.js  
+<br>
 📈 Currently improving: Backend skills and code architecture for scalable products  
+<br>
 🌎 Based in: Brazil 🇧🇷  
 </p>
 
