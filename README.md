@@ -49,9 +49,6 @@ I'm a Frontend-focused software developer passionate about crafting clean, acces
 <h3 align="left">📫 Let’s connect!</h3>
 
 <div align="center">
-  <a href="https://www.instagram.com/jhennyfercichaseski/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="Instagram" />
-  </a>
   <a href="mailto:jhnnfrlvs@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail" />
   </a>
