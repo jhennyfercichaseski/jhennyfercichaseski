@@ -14,14 +14,6 @@ I'm a Frontend-focused software developer passionate about crafting clean, acces
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats-jhennyfercichaseskis-projects.vercel.app/api?username=jhennyfercichaseski&include_all_commits=true&hide_rank=true&count_private=true&show_icons=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" /> 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhennyfercichaseski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
-
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="center">
